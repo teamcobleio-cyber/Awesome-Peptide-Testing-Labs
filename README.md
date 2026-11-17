@@ -128,7 +128,7 @@ The same data is in [`data/labs.json`](data/labs.json) and [`data/labs.csv`](dat
 - **Verify a report:** [report lookup](https://www.mapleleafdiagnostics.ca/verify/)
 - **Note:** Testing is paused as of 8 September 2026 and the laboratory is mid-move. See the notice above.
 - **Note:** Purity is by HPLC-UV/DAD with MS for identity, not by tandem MS quantitation against a calibration curve. That is a different and cheaper measurement from the one SideChain and VialTests describe.
-- **Note:** This directory previously recorded "no published price list". The prices above are on the services page and were missed.
+- **Note:** The Volta Peptides directory previously recorded "no published price list". The prices above are on the services page and were missed.
 - Read on 2026-09-11. [Full entry on voltapeptides.com](https://voltapeptides.com/testing-labs/maple-leaf-diagnostics)
 
 ### [ResolveMass Laboratories](https://resolvemass.ca)
@@ -239,7 +239,7 @@ The same data is in [`data/labs.json`](data/labs.json) and [`data/labs.csv`](dat
   - Total dust particulate: Quoted on request
   - Respirator fit testing: Booked by appointment
 - **Verify a report:** no public lookup page
-- **Note:** Prime Analytical does not test peptides. This directory previously credited it with peptide purity analysis, mass-spectrometry identification and endotoxin testing, none of which it offers. Corrected 2026-09-10 rather than quietly deleted, because the false version was live long enough to have been read and acted on.
+- **Note:** Prime Analytical does not test peptides. The Volta Peptides directory previously credited it with peptide purity analysis, mass-spectrometry identification and endotoxin testing, none of which it offers. Corrected 2026-09-10 rather than quietly deleted, because the false version was live long enough to have been read and acted on.
 - Read on 2026-09-11. [Full entry on voltapeptides.com](https://voltapeptides.com/testing-labs/prime-analytical)
 
 ## United States
@@ -326,7 +326,7 @@ The same data is in [`data/labs.json`](data/labs.json) and [`data/labs.csv`](dat
 - **Verify a report:** no public lookup page
 - **Note:** USP-validated methods are not the same as ISO 17025 accreditation, and no accreditation body is named.
 - **Note:** There is no public certificate lookup. The site names TrustPointeLIMS.com as the place to enter a certificate key, and a logged-out visitor landing there gets a SENAITE login screen, so verification in practice means scanning the QR on a certificate you already hold.
-- **Note:** This directory previously recorded "no published price list". The catalogue prices every test and was missed.
+- **Note:** The Volta Peptides directory previously recorded "no published price list". The catalogue prices every test and was missed.
 - **Note:** The storefront is age-gated at 18 and asks for confirmation before it will show the catalogue.
 - Read on 2026-09-11. [Full entry on voltapeptides.com](https://voltapeptides.com/testing-labs/trustpointe-analytics)
 
@@ -370,7 +370,7 @@ The same data is in [`data/labs.json`](data/labs.json) and [`data/labs.csv`](dat
 - **Note:** Accreditation is scope-specific. Confirm the particular peptide method you need is on the published A2LA scope: an accredited laboratory is not accredited for everything it can run.
 - **Note:** The ordering portal is a single-page application that shows nothing without JavaScript, so prices cannot be read from the public web and cannot be quoted here.
 - **Note:** No laboratory street address on the public site. The published telephone number is a 360 line.
-- **Note:** verifiedbyvanguard.com is the ORDERING portal, not a certificate lookup. This directory previously offered it as a "Verify a COA" link, which it is not, and every path on that host returns the same empty shell so the mistake was invisible.
+- **Note:** verifiedbyvanguard.com is the ORDERING portal, not a certificate lookup. The Volta Peptides directory previously offered it as a "Verify a COA" link, which it is not, and every path on that host returns the same empty shell so the mistake was invisible.
 - Read on 2026-09-11. [Full entry on voltapeptides.com](https://voltapeptides.com/testing-labs/vanguard-laboratory)
 
 ### [SR Biolabs](https://srbiolabs.com)
@@ -405,7 +405,7 @@ The same data is in [`data/labs.json`](data/labs.json) and [`data/labs.csv`](dat
 - **Verify a report:** no public lookup page
 - **Note:** Purity testing here does not cover activity, sterility, endotoxin, heavy metals or pH. The laboratory says so explicitly; pair it with a microbiology laboratory if you need those.
 - **Note:** No published peptide price list.
-- **Note:** This directory previously listed MZ Biolabs as a German laboratory operating under European standards. That was wrong: it is in Tucson, Arizona. Corrected 2026-09-10.
+- **Note:** The Volta Peptides directory previously listed MZ Biolabs as a German laboratory operating under European standards. That was wrong: it is in Tucson, Arizona. Corrected 2026-09-10.
 - Read on 2026-09-11. [Full entry on voltapeptides.com](https://voltapeptides.com/testing-labs/mz-biolabs)
 
 ### [Veritas Analytic](https://veritasanalytic.com)
@@ -462,7 +462,7 @@ The same data is in [`data/labs.json`](data/labs.json) and [`data/labs.csv`](dat
 - **Note:** The site now refuses every automated request with an HTTP 403, including its own favicon, so nothing here could be re-verified on 2026-09-11 and the entry below is unchanged from the 2026-09-10 reading. Open it in a browser before relying on it.
 - **Note:** No published price list; testing starts with a new customer form.
 - **Note:** The bioregen.com/verify link this directory carried could not be confirmed and has been removed rather than shipped as a Verify a COA button that may not resolve.
-- **Note:** This directory previously listed BioRegen as UK-based at bioregen.co.uk. The laboratory is US-based at bioregen.com. Corrected 2026-09-10.
+- **Note:** The Volta Peptides directory previously listed BioRegen as UK-based at bioregen.co.uk. The laboratory is US-based at bioregen.com. Corrected 2026-09-10.
 - Read on 2026-09-10. [Full entry on voltapeptides.com](https://voltapeptides.com/testing-labs/bioregen)
 
 ### [Forever Young Pharmacy](https://foreveryoungpharmacy.com/product-category/peptide-purity-testing/)
@@ -479,7 +479,7 @@ The same data is in [`data/labs.json`](data/labs.json) and [`data/labs.csv`](dat
 - **Verify a report:** [report lookup](https://foreveryoungpharmacy.com/verify-a-coa/)
 - **Note:** Nothing is currently purchasable in the peptide testing catalogue. See the notice above.
 - **Note:** A pharmacy offering testing as a product line rather than a dedicated independent analytical laboratory. A pharmacy that also dispenses is not in the same position as a laboratory that only measures.
-- **Note:** This directory previously pointed at fypharmacy.com and credited 24 peptide-specific tests. The catalogue is at foreveryoungpharmacy.com; the 24 figure was the count on a neighbouring category, not on the purity-testing one.
+- **Note:** The Volta Peptides directory previously pointed at fypharmacy.com and credited 24 peptide-specific tests. The catalogue is at foreveryoungpharmacy.com; the 24 figure was the count on a neighbouring category, not on the purity-testing one.
 - Read on 2026-09-11. [Full entry on voltapeptides.com](https://voltapeptides.com/testing-labs/forever-young-pharmacy)
 
 ### [Prodigy Labs](https://prodigy-labs.com)
