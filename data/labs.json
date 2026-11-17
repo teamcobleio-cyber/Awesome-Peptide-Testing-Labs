@@ -1,0 +1,2062 @@
+[
+  {
+    "slug": "sidechain-analytics",
+    "name": "SideChain Analytics",
+    "website": "https://sidechainanalytics.com",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Mississauga, Ontario",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Blends",
+      "Blind identification",
+      "Endotoxin",
+      "Heavy metals",
+      "Reconstitution solution",
+      "Custom method work"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "portal",
+    "pricingSummary": "Priced in the client portal, in CAD before HST/GST, once you create an account; the public pages quote on request. The privately supplied figures below start at CA$249 for a single peptide.",
+    "services": [
+      {
+        "name": "Single peptide analysis",
+        "price": "CA$249",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Blend analysis",
+        "price": "CA$275",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Bacterial endotoxin",
+        "price": "CA$199",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals",
+        "price": "CA$149",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Blind identification",
+        "price": null,
+        "priceNote": "Priced in the client portal",
+        "turnaround": null
+      },
+      {
+        "name": "Reconstitution solution analysis",
+        "price": null,
+        "priceNote": "Priced in the client portal",
+        "turnaround": null
+      },
+      {
+        "name": "Rush turnaround",
+        "price": null,
+        "priceNote": "Priced in the client portal",
+        "turnaround": null
+      },
+      {
+        "name": "Contract research and method development",
+        "price": null,
+        "priceNote": "Scoped and quoted per project",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "5–7 business days after sample receipt",
+    "discounts": [
+      "5 or more samples: 10% off the order",
+      "10 or more samples: 15% off the order",
+      "20 or more samples: 20% off the order"
+    ],
+    "verifyUrl": "https://www.sidechainanalytics.com/verify",
+    "notices": [],
+    "caveats": [],
+    "verifiedOn": "2026-11-14",
+    "directoryPage": "https://voltapeptides.com/testing-labs/sidechain-analytics"
+  },
+  {
+    "slug": "peptide-test-canada",
+    "name": "Peptide Test Canada",
+    "website": "https://peptidetestcanada.ca",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Mississauga, Ontario",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Blends",
+      "Blind identification",
+      "Endotoxin",
+      "Heavy metals"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "CA$249 for the standard COA. Every add-on is priced on the shop page.",
+    "services": [
+      {
+        "name": "Standard peptide COA (purity, identity and mass)",
+        "price": "CA$249 per sample",
+        "priceNote": null,
+        "turnaround": "5–7 business days"
+      },
+      {
+        "name": "Blend analysis (for example BPC-157 + GHK-Cu + TB-500)",
+        "price": "CA$275 per sample",
+        "priceNote": null,
+        "turnaround": "5–7 business days"
+      },
+      {
+        "name": "Blind peptide identity test",
+        "price": "CA$399 per sample",
+        "priceNote": null,
+        "turnaround": "7 business days"
+      },
+      {
+        "name": "HGH (somatropin) identity and purity",
+        "price": "CA$249 per sample",
+        "priceNote": null,
+        "turnaround": "5–7 business days"
+      },
+      {
+        "name": "Standalone bacterial endotoxin (LAL, USP <85>)",
+        "price": "CA$249 per vial",
+        "priceNote": null,
+        "turnaround": "5–7 business days"
+      },
+      {
+        "name": "Heavy metals screening",
+        "price": "CA$149 add-on",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Rush turnaround",
+        "price": "CA$199 add-on",
+        "priceNote": null,
+        "turnaround": "2 business days"
+      }
+    ],
+    "turnaround": "5–7 business days, 2 business days on rush",
+    "discounts": [
+      "10 or more samples: 5% off",
+      "20 or more samples: 10% off"
+    ],
+    "verifyUrl": "https://peptidetestcanada.ca/verify",
+    "notices": [],
+    "caveats": [
+      "The site describes itself as Canada's only dedicated domestic peptide testing lab. Several other Canadian labs in this directory also test peptides domestically, so treat that as marketing rather than fact.",
+      "No laboratory street address, and no named accreditation body: the site says \"licensed\" and \"validated following USP principles\", which is not the same as an accredited scope.",
+      "\"20 years experience\" and \"100% accurate testing\" are the site's own claims and are not independently audited."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/peptide-test-canada"
+  },
+  {
+    "slug": "vialtests",
+    "name": "VialTests",
+    "website": "https://www.vialtests.com",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Greater Toronto Area, Ontario",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Blends",
+      "Blind identification",
+      "Endotoxin",
+      "Heavy metals",
+      "Reconstitution solution"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "CA$249 a peptide, CA$275 a blend, with every add-on priced in the catalogue. New orders are paused as of 2026-11-14; see the notice above.",
+    "services": [
+      {
+        "name": "Peptide analysis (single peptide)",
+        "price": "CA$249.00",
+        "priceNote": null,
+        "turnaround": "About 7–10 business days standard; rush about 3–5"
+      },
+      {
+        "name": "Peptide blend analysis",
+        "price": "CA$275.00",
+        "priceNote": null,
+        "turnaround": "About 7–10 business days standard; rush about 3–5"
+      },
+      {
+        "name": "Blind peptide identity test",
+        "price": "CA$399.00",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Bacterial endotoxin (LAL, USP <85>)",
+        "price": "CA$249.00",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals (ICP-MS)",
+        "price": "CA$149.00",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Reconstitution solution analysis",
+        "price": "CA$299.00",
+        "priceNote": null,
+        "turnaround": null
+      }
+    ],
+    "turnaround": "About 7–10 business days after sample receipt; rush about 3–5",
+    "discounts": [],
+    "verifyUrl": "https://www.vialtests.com/verify",
+    "notices": [
+      "New sample intake temporarily paused (read 2026-11-14): the order page states VialTests is not accepting new sample orders until further notice because of a sample influx, and offers a waitlist instead. Do not ship a vial until intake reopens."
+    ],
+    "caveats": [
+      "Turnaround is stated as about 7–10 business days on the catalogue, FAQ and about pages, about 3–5 for rush, and 3–10 on the home page; the site says it is not guaranteed for every specialised analysis.",
+      "No named accreditation body. The site describes defined analytical workflows rather than an accredited scope.",
+      "VialTests describes itself as a testing service brand operating a laboratory, not as an accredited laboratory in its own right."
+    ],
+    "verifiedOn": "2026-11-14",
+    "directoryPage": "https://voltapeptides.com/testing-labs/vialtests"
+  },
+  {
+    "slug": "testides",
+    "name": "Testides",
+    "website": "https://testides.com",
+    "country": "Canada and United States",
+    "countryCodes": [
+      "CA",
+      "US"
+    ],
+    "location": "Serving North America",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Endotoxin",
+      "Heavy metals",
+      "Reconstitution solution"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "portal",
+    "pricingSummary": "CA$280 a sample for the standard panel, CA$250 each at three or more, with endotoxin and metals at CA$100 each.",
+    "services": [
+      {
+        "name": "Standard panel",
+        "price": "CA$280 per sample, CA$250 each at 3 or more",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Bacterial endotoxin (LAL)",
+        "price": "CA$100 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Four-metal ICP-MS screen",
+        "price": "CA$100 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "pH measurement",
+        "price": null,
+        "priceNote": "Priced in the portal",
+        "turnaround": null
+      },
+      {
+        "name": "Additional certificates",
+        "price": null,
+        "priceNote": "Priced in the portal",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "Not published on the public portal",
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "The public marketing site is gone. There is no services page, no price page and no laboratory address to read: everything now lives behind the portal, and this entry was reconstructed from the portal's own JavaScript bundle.",
+      "Testides chooses a laboratory for you to submit to. It is a routing and reporting layer, not a single named facility, and this directory previously described it as a laboratory.",
+      "The portal warns that an Interac e-Transfer must not mention peptides in the notice, and that a transfer from a company whose name contains \"peptides\" will be rejected. Plan the payment accordingly.",
+      "No published turnaround, and no named accreditation.",
+      "A blend can be submitted, but the portal never says the components are resolved and quantified separately. If you need a per-component result rather than one averaged figure, ask before shipping."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/testides"
+  },
+  {
+    "slug": "maple-leaf-diagnostics",
+    "name": "Maple Leaf Diagnostics",
+    "website": "https://www.mapleleafdiagnostics.ca",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Drumheller, Alberta",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Blends",
+      "Endotoxin",
+      "Custom method work"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "CA$250 for identity, quantity and purity. Endotoxin is CA$100.",
+    "services": [
+      {
+        "name": "Identity, quantity and purity",
+        "price": "CA$250",
+        "priceNote": null,
+        "turnaround": "7–10 business days"
+      },
+      {
+        "name": "Bacterial endotoxin (LAL)",
+        "price": "CA$100",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Sample photograph add-on",
+        "price": "CA$20",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Custom watermark add-on",
+        "price": "CA$20",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "New compound onboarding",
+        "price": null,
+        "priceNote": "Quoted with the job",
+        "turnaround": null
+      },
+      {
+        "name": "Rush service",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "7–10 business days, next-day on priority",
+    "discounts": [],
+    "verifyUrl": "https://www.mapleleafdiagnostics.ca/verify/",
+    "notices": [
+      "Read 2026-09-11: Maple Leaf posted a notice dated 8 September 2026 pausing all new testing because of a backlog, with testing to resume in October, and said it is relocating its offices and will not be following up on email until the move and the backlog are cleared. Confirm it is accepting samples before you ship one, and confirm the address before you address the parcel."
+    ],
+    "caveats": [
+      "Testing is paused as of 8 September 2026 and the laboratory is mid-move. See the notice above.",
+      "Purity is by HPLC-UV/DAD with MS for identity, not by tandem MS quantitation against a calibration curve. That is a different and cheaper measurement from the one SideChain and VialTests describe.",
+      "This directory previously recorded \"no published price list\". The prices above are on the services page and were missed."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/maple-leaf-diagnostics"
+  },
+  {
+    "slug": "resolvemass-laboratories",
+    "name": "ResolveMass Laboratories",
+    "website": "https://resolvemass.ca",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Montreal, Quebec",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Custom method work",
+      "Reference standards"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "quote",
+    "pricingSummary": "Analytical work is scoped and quoted. Only the reference-standard catalogue carries list prices.",
+    "services": [
+      {
+        "name": "Peptide characterisation",
+        "price": null,
+        "priceNote": "Scoped and quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Method development and validation",
+        "price": null,
+        "priceNote": "Scoped and quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Impurity profiling and E&L testing",
+        "price": null,
+        "priceNote": "Scoped and quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "GMP analytical testing and release",
+        "price": null,
+        "priceNote": "Scoped and quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Synthesis and clinical supply",
+        "price": null,
+        "priceNote": "Scoped and quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Deuterated and labelled reference standards",
+        "price": "Catalogue, list prices from about US$40 to several thousand per 10 mg",
+        "priceNote": null,
+        "turnaround": null
+      }
+    ],
+    "turnaround": null,
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "A CRO and CDMO, not a consumer testing service. Expect project scoping and quotes rather than a fixed per-sample price, and do not send a single research vial here expecting a CA$250 certificate.",
+      "The catalogue prices are for reference standards you buy, not for testing you order."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/resolvemass-laboratories"
+  },
+  {
+    "slug": "coremass-laboratories",
+    "name": "CoreMass Laboratories",
+    "website": "https://coremasslaboratories.com",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Canada",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Endotoxin",
+      "Sterility",
+      "Heavy metals"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "CA$300 for purity and identity, CA$350 with net content. Fixed prices published up front.",
+    "services": [
+      {
+        "name": "Purity and identity",
+        "price": "CA$300",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Net content",
+        "price": "+CA$50",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Endotoxins",
+        "price": "CA$275",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Sterility (PCR)",
+        "price": "CA$250",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals",
+        "price": "CA$150",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Conformity",
+        "price": "CA$75 per vial",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Fentanyl screen",
+        "price": "CA$60",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "pH analysis",
+        "price": "CA$95",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Vial photo",
+        "price": null,
+        "priceNote": "Included with every sample",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "5 to 7 business days from arrival, stated as an estimate",
+    "discounts": [],
+    "verifyUrl": "https://coremasslaboratories.com/#verify",
+    "notices": [],
+    "caveats": [],
+    "verifiedOn": "2026-11-08",
+    "directoryPage": "https://voltapeptides.com/testing-labs/coremass-laboratories"
+  },
+  {
+    "slug": "pacificoanalytics",
+    "name": "PacifiCOAnalytics",
+    "website": "https://pacificoanalytics.ca",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Vancouver, British Columbia",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Endotoxin",
+      "Heavy metals"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "CA$250 for a basic COA, CA$500 for the full panel, falling with monthly volume to CA$175 and CA$325.",
+    "services": [
+      {
+        "name": "Basic COA",
+        "price": "CA$250 per vial",
+        "priceNote": null,
+        "turnaround": "72 hours from receipt (target)"
+      },
+      {
+        "name": "Full panel",
+        "price": "CA$500 per vial",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Endotoxin screen add-on",
+        "price": "CA$150",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals add-on",
+        "price": "CA$100",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Rush testing",
+        "price": "CA$175 per vial",
+        "priceNote": null,
+        "turnaround": "Within 24 business hours"
+      },
+      {
+        "name": "Growth tier, 5–15 vials a month",
+        "price": "CA$210 basic, CA$435 full panel, per vial",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Established tier, 16–49 vials a month",
+        "price": "CA$195 basic, CA$385 full panel, per vial",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Wholesale tier, 50 or more vials a month",
+        "price": "From CA$175 basic, from CA$325 full panel, per vial",
+        "priceNote": null,
+        "turnaround": null
+      }
+    ],
+    "turnaround": "72 hours from receipt, stated as an estimate; rush within 24 business hours",
+    "discounts": [
+      "Growth, 5–15 vials a month: CA$65 off the full panel, CA$40 off the basic COA",
+      "Established, 16–49 vials a month: CA$115 off the full panel, CA$55 off the basic COA",
+      "Wholesale, 50 or more vials a month: on a volume contract"
+    ],
+    "verifyUrl": "https://pacificoanalytics.ca/coa.html",
+    "notices": [],
+    "caveats": [
+      "Results are public by default, published with the vendor name and batch ID you provide. Ask for private testing at intake if you do not want that.",
+      "Identity is confirmed spectroscopically (FTIR, Raman, UV-Vis, CE-UV) rather than by mass spectrometry, which is what most other entries here use.",
+      "Sterility is not offered, and no accreditation is stated on the site.",
+      "The heavy-metals result is a colorimetric screen rather than an ICP-MS quantitation."
+    ],
+    "verifiedOn": "2026-11-08",
+    "directoryPage": "https://voltapeptides.com/testing-labs/pacificoanalytics"
+  },
+  {
+    "slug": "nucro-technics",
+    "name": "Nucro-Technics",
+    "website": "https://nucro-technics.com",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Scarborough, Toronto, Ontario",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Endotoxin",
+      "Microbiology"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "quote",
+    "pricingSummary": "No price list. Engagement starts with a quote request.",
+    "services": [
+      {
+        "name": "USP <85> bacterial endotoxin test",
+        "price": null,
+        "priceNote": "Quoted per study",
+        "turnaround": null
+      },
+      {
+        "name": "USP <61> microbial enumeration",
+        "price": null,
+        "priceNote": "Quoted per study",
+        "turnaround": null
+      },
+      {
+        "name": "Analytical chemistry testing",
+        "price": null,
+        "priceNote": "Quoted per study",
+        "turnaround": null
+      },
+      {
+        "name": "GMP finished product testing and stability",
+        "price": null,
+        "priceNote": "Quoted per study",
+        "turnaround": null
+      },
+      {
+        "name": "GLP toxicology and genetic toxicology",
+        "price": null,
+        "priceNote": "Quoted per study",
+        "turnaround": null
+      },
+      {
+        "name": "QA, regulatory affairs and consulting",
+        "price": null,
+        "priceNote": "Quoted per engagement",
+        "turnaround": null
+      }
+    ],
+    "turnaround": null,
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "A full contract research organisation. It does not advertise a per-vial peptide purity service, and engagement is by quote.",
+      "The compendial microbiology here is the same USP chapter number as the cheaper add-ons elsewhere in this directory. The difference is the quality system around it, and the price reflects that."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/nucro-technics"
+  },
+  {
+    "slug": "arsi-canada",
+    "name": "ARSI Canada",
+    "website": "https://arsicanada.com",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Mississauga, Ontario",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Heavy metals",
+      "Custom method work"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "quote",
+    "pricingSummary": "Quoted by volume and test type. The privately supplied rate is CA$285 per active at 5–10 samples.",
+    "services": [
+      {
+        "name": "HPLC identification, purity and peptide content",
+        "price": "CA$285 per active (5–10 samples)",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals and elemental screening",
+        "price": null,
+        "priceNote": "Quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Impurity profiling and structure elucidation",
+        "price": null,
+        "priceNote": "Quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Method development, validation and transfer",
+        "price": null,
+        "priceNote": "Quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Forced degradation and stability-indicating methods",
+        "price": null,
+        "priceNote": "Quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Custom synthesis and pre-clinical scale-up",
+        "price": null,
+        "priceNote": "Quoted per project",
+        "turnaround": null
+      }
+    ],
+    "turnaround": null,
+    "discounts": [
+      "Per-sample fees decrease as total sample volume rises"
+    ],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "A CRO serving pharmaceutical and biotech clients. There is no online shop and no per-vial consumer service.",
+      "The CA$285 per-active figure were supplied to Volta Peptides directly and is not published on the site."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/arsi-canada"
+  },
+  {
+    "slug": "prime-analytical",
+    "name": "Prime Analytical",
+    "website": "https://www.primeanalytical.com",
+    "country": "Canada",
+    "countryCodes": [
+      "CA"
+    ],
+    "location": "Etobicoke, Toronto, Ontario",
+    "takesPeptideSamples": false,
+    "capabilities": [],
+    "iso17025Accredited": true,
+    "pricingModel": "none",
+    "pricingSummary": "Not a peptide laboratory. Environmental work is quoted on request.",
+    "services": [
+      {
+        "name": "Asbestos in bulk",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Indoor air quality",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Combustion by-product analysis",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Total dust particulate",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Respirator fit testing",
+        "price": null,
+        "priceNote": "Booked by appointment",
+        "turnaround": null
+      }
+    ],
+    "turnaround": null,
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "Prime Analytical does not test peptides. This directory previously credited it with peptide purity analysis, mass-spectrometry identification and endotoxin testing, none of which it offers. Corrected 2026-09-10 rather than quietly deleted, because the false version was live long enough to have been read and acted on."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/prime-analytical"
+  },
+  {
+    "slug": "janoshik-analytical",
+    "name": "Janoshik Analytical",
+    "website": "https://janoshik.com",
+    "country": "Czech Republic",
+    "countryCodes": [
+      "CZ"
+    ],
+    "location": "Czech Republic",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Blends",
+      "Blind identification",
+      "Endotoxin",
+      "Sterility",
+      "Heavy metals",
+      "Reconstitution solution"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "US$215 to US$450 a peptide, published per compound, with blends US$320 to US$800.",
+    "services": [
+      {
+        "name": "Single peptide analysis",
+        "price": "US$215–$450, per compound",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Common GLP-1 blind test",
+        "price": "US$360",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Blend analysis",
+        "price": "US$320–$800, per blend",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Human growth hormone analysis",
+        "price": "US$360, or US$500 with dimer",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Bacterial endotoxin",
+        "price": "US$180",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Sterility testing (TAMC + TYMC)",
+        "price": "US$290",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals screening (As, Cd, Pb, Hg)",
+        "price": "US$145",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "GCMS/LCMS contamination screening",
+        "price": "US$205",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Reconstitution solution and benzyl alcohol analysis",
+        "price": "US$145",
+        "priceNote": null,
+        "turnaround": null
+      }
+    ],
+    "turnaround": "Not published as a fixed window",
+    "discounts": [],
+    "verifyUrl": "https://janoshik.com/verification/",
+    "notices": [],
+    "caveats": [
+      "Samples ship from Canada to the Czech Republic, so budget for international transit and border clearance time.",
+      "Prices are per compound and the spread is wide. Check the published list for yours before ordering.",
+      "No published turnaround window and no named accreditation body."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/janoshik-analytical"
+  },
+  {
+    "slug": "accumark-labs",
+    "name": "Accumark Labs",
+    "website": "https://accumarklabs.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "Anaheim, California",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Endotoxin",
+      "Sterility",
+      "Heavy metals",
+      "Reconstitution solution"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "Flat US$250 per peptide, any compound, with every add-on individually priced.",
+    "services": [
+      {
+        "name": "Core panel: HPLC identity, purity and quantity",
+        "price": "US$250 per sample",
+        "priceNote": null,
+        "turnaround": "48–72 hours"
+      },
+      {
+        "name": "Sterility, USP <71>",
+        "price": "US$250 per sample",
+        "priceNote": null,
+        "turnaround": "14 days"
+      },
+      {
+        "name": "Rapid sterility screening (PCR)",
+        "price": "US$230 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Bacterial endotoxin (LAL)",
+        "price": "US$200 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals",
+        "price": "US$200 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Reconstitution solution panel",
+        "price": "US$275 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Variance testing",
+        "price": "US$76.50 per additional vial",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Fentanyl screening",
+        "price": "US$75 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Vial re-test",
+        "price": "US$50",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Additional certificates",
+        "price": "US$35",
+        "priceNote": null,
+        "turnaround": null
+      }
+    ],
+    "turnaround": "48–72 hours standard; 14 days for compendial sterility",
+    "discounts": [
+      "50% off your first sample"
+    ],
+    "verifyUrl": "https://accumarklabs.com/verify/",
+    "notices": [],
+    "caveats": [
+      "ISO 17025 accreditation is listed as pending rather than held.",
+      "The About and Equipment pages are still unfinished template text, with placeholder paragraphs and a repeated placeholder name under three leadership roles. Read them as unbuilt rather than as information about the laboratory.",
+      "The site footer credits Valence Analytical rather than Accumark Labs, so the operating entity and the brand are not the same name."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/accumark-labs"
+  },
+  {
+    "slug": "chromate",
+    "name": "Chromate",
+    "website": "https://chromate.org",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "United States",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Endotoxin",
+      "Sterility",
+      "Heavy metals"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "US$180 for most common peptides, US$240 to US$380 for less common ones.",
+    "services": [
+      {
+        "name": "Peptide analysis by HPLC, common compounds",
+        "price": "US$180 per sample",
+        "priceNote": null,
+        "turnaround": "5–10 business days"
+      },
+      {
+        "name": "Peptide analysis by HPLC, second tier",
+        "price": "US$240 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "GLP-1 and growth hormone analysis",
+        "price": "US$300 per sample, US$380 for the newer agonists",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Less common peptides",
+        "price": "US$380 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Sterility assessment, USP <1223> BacT/ALERT",
+        "price": "US$240 per sample",
+        "priceNote": null,
+        "turnaround": "1 week"
+      },
+      {
+        "name": "Endotoxin count",
+        "price": "US$240 per sample",
+        "priceNote": null,
+        "turnaround": "5–10 business days"
+      },
+      {
+        "name": "Variance testing",
+        "price": "US$50 per additional peptide vial, US$30 per additional capsule or tablet",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Supplement analysis",
+        "price": "US$120–$300 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals by GFAAS",
+        "price": "US$180 per sample",
+        "priceNote": null,
+        "turnaround": "5 business days"
+      },
+      {
+        "name": "Colorimetric heavy metal screening",
+        "price": "US$60 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Fentanyl screening",
+        "price": "US$40 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Impurity characterisation by LC-MS",
+        "price": "US$120 alongside HPLC analysis, US$180 standalone",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "pH testing",
+        "price": "US$60",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "FTIR",
+        "price": "US$240",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Comprehensive testing package",
+        "price": "US$650",
+        "priceNote": null,
+        "turnaround": null
+      }
+    ],
+    "turnaround": "5–10 business days for HPLC and endotoxin, 1 week for sterility, 5 business days for GFAAS",
+    "discounts": [
+      "US$50 off per additional vial from the same batch (variance analysis)",
+      "33% off additional batches of the same compound, for example BPC-157 5mg and 10mg submitted together",
+      "10% off orders of US$1,200 or more",
+      "15% off orders of US$5,000 or more",
+      "None of the above apply to the comprehensive testing package"
+    ],
+    "verifyUrl": "https://chromate.org/verify",
+    "notices": [],
+    "caveats": [
+      "No laboratory address and no named accreditation body. The site describes literature-based methodology and professional-grade equipment. Turnaround figures were supplied by the laboratory to Volta Peptides rather than from the public site.",
+      "Two price lists are merged above. The per-compound figures are published on the services page; the GFAAS, colorimetric screening, fentanyl, LC-MS impurity, pH, FTIR and comprehensive-package lines, and every volume discount, were supplied to Volta Peptides directly and are not on the public page. Confirm the privately supplied figures when you order."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/chromate"
+  },
+  {
+    "slug": "trustpointe-analytics",
+    "name": "TrustPointe Analytics",
+    "website": "https://trustpointeanalytics.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "United States",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Blends",
+      "Endotoxin",
+      "Sterility",
+      "Microbiology",
+      "Heavy metals"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "US$200 to US$400 a peptide assay, US$400 to US$800 a blend, published per compound.",
+    "services": [
+      {
+        "name": "Single peptide assay, common compounds",
+        "price": "US$200–$250 per sample",
+        "priceNote": null,
+        "turnaround": "3–5 business days"
+      },
+      {
+        "name": "GLP-1 assays",
+        "price": "US$300–$400 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Other peptide assays",
+        "price": "US$400 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Peptide blend testing",
+        "price": "US$400–$800 per blend",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "USP <71> sterility test",
+        "price": "US$300",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "USP <85> bacterial endotoxin",
+        "price": "US$300",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "USP <61> nonsterile microbial enumeration",
+        "price": "US$300",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "USP <905> content uniformity",
+        "price": "US$900",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Metals analysis (EPA methods)",
+        "price": "US$500",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Diluent and solvent analysis",
+        "price": "US$250 each",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Physical testing",
+        "price": "US$50 each",
+        "priceNote": null,
+        "turnaround": null
+      }
+    ],
+    "turnaround": "3–5 business days, rush available",
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "USP-validated methods are not the same as ISO 17025 accreditation, and no accreditation body is named.",
+      "There is no public certificate lookup. The site names TrustPointeLIMS.com as the place to enter a certificate key, and a logged-out visitor landing there gets a SENAITE login screen, so verification in practice means scanning the QR on a certificate you already hold.",
+      "This directory previously recorded \"no published price list\". The catalogue prices every test and was missed.",
+      "The storefront is age-gated at 18 and asks for confirmation before it will show the catalogue."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/trustpointe-analytics"
+  },
+  {
+    "slug": "freedom-diagnostics",
+    "name": "Freedom Diagnostics Testing",
+    "website": "https://freedomdiagnosticstesting.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "Franklin, Tennessee",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Endotoxin",
+      "Sterility",
+      "Heavy metals"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "US$200 for purity and identity, plus US$25 for net content. Every analysis is priced on the public submission form before you pay.",
+    "services": [
+      {
+        "name": "Purity and identity (HPLC and LC-MS)",
+        "price": "US$200 per sample",
+        "priceNote": null,
+        "turnaround": "1–3 business days average"
+      },
+      {
+        "name": "Net content",
+        "price": "US$25 per sample, added to purity and identity",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Endotoxins",
+        "price": "US$175 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Sterility (PCR)",
+        "price": "US$150 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals",
+        "price": "US$100 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Conformity",
+        "price": "US$50 per extra vial",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Fentanyl screen",
+        "price": "US$40 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "pH analysis",
+        "price": "US$75 per sample, on request",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Vial photo",
+        "price": null,
+        "priceNote": "Included free",
+        "turnaround": null
+      },
+      {
+        "name": "Duplicate certificates under another company name",
+        "price": "US$50 per sample, per company",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Rush",
+        "price": null,
+        "priceNote": "A 20% surcharge on the order total",
+        "turnaround": null
+      },
+      {
+        "name": "Certificate lookup",
+        "price": null,
+        "priceNote": "Free and public",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "1–3 business days average",
+    "discounts": [
+      "Lifetime volume discount counted from 1 November 2026: 5% off at 10 samples, 10% at 20 and 15% at 50, never reset and applied at invoicing",
+      "The order that crosses a threshold gets the new rate on its whole total; conformity vials and duplicate certificates do not count toward the tier",
+      "Military and first-responder clients receive a further 5%"
+    ],
+    "verifyUrl": "https://freedomdiagnosticstesting.com/search-for-your-coa-based-on-the-unique-accession-number/",
+    "notices": [],
+    "caveats": [
+      "The submission form prints bare dollar figures. They are recorded here as US$ because the laboratory is in Tennessee and bills a US card authorisation; confirm the currency on your invoice.",
+      "The sterility screen is PCR-based, not a compendial USP <71> incubation, and the site does not name an accrediting body. The ISO 9001 and GLP wording on its pages describes principles it follows, not an assessed accreditation.",
+      "The archive count is stated differently on different pages of the same site, from over 40,000 to over 42,000 to a live counter above 69,000 on 2026-11-14, so read it as tens of thousands rather than as one figure.",
+      "The site states no vendor affiliations. That is its own claim and is not independently audited."
+    ],
+    "verifiedOn": "2026-11-14",
+    "directoryPage": "https://voltapeptides.com/testing-labs/freedom-diagnostics"
+  },
+  {
+    "slug": "vanguard-laboratory",
+    "name": "Vanguard Laboratory",
+    "website": "https://vanguardlaboratory.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "United States",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Heavy metals",
+      "Microbiology"
+    ],
+    "iso17025Accredited": true,
+    "pricingModel": "portal",
+    "pricingSummary": "Estimated prices are shown in the ordering portal before submission, not on the public site.",
+    "services": [
+      {
+        "name": "Peptide and research chemical testing",
+        "price": null,
+        "priceNote": "Estimated in the ordering portal before you submit",
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metal screening",
+        "price": null,
+        "priceNote": "Quoted or estimated in the portal",
+        "turnaround": null
+      },
+      {
+        "name": "Microbiological screening",
+        "price": null,
+        "priceNote": "Quoted or estimated in the portal",
+        "turnaround": null
+      },
+      {
+        "name": "Residual solvent screening",
+        "price": null,
+        "priceNote": "Quoted or estimated in the portal",
+        "turnaround": null
+      },
+      {
+        "name": "Food, beverage and water testing",
+        "price": null,
+        "priceNote": "Quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Analysis services",
+        "price": null,
+        "priceNote": "Quoted per project",
+        "turnaround": null
+      }
+    ],
+    "turnaround": null,
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "Accreditation is scope-specific. Confirm the particular peptide method you need is on the published A2LA scope: an accredited laboratory is not accredited for everything it can run.",
+      "The ordering portal is a single-page application that shows nothing without JavaScript, so prices cannot be read from the public web and cannot be quoted here.",
+      "No laboratory street address on the public site. The published telephone number is a 360 line.",
+      "verifiedbyvanguard.com is the ORDERING portal, not a certificate lookup. This directory previously offered it as a \"Verify a COA\" link, which it is not, and every path on that host returns the same empty shell so the mistake was invisible."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/vanguard-laboratory"
+  },
+  {
+    "slug": "sr-biolabs",
+    "name": "SR Biolabs",
+    "website": "https://srbiolabs.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "Orlando, Florida",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Reconstitution solution",
+      "Custom method work"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "US$150 qualitative, US$200 qualitative plus quantitative, per sample.",
+    "services": [
+      {
+        "name": "Qualitative analysis",
+        "price": "US$150 per sample",
+        "priceNote": null,
+        "turnaround": "5 business days"
+      },
+      {
+        "name": "Qualitative plus quantitative analysis",
+        "price": "US$200 per sample",
+        "priceNote": null,
+        "turnaround": "5 business days"
+      }
+    ],
+    "turnaround": "5 business days from receipt of the order",
+    "discounts": [],
+    "verifyUrl": "https://srbiolabs.com/coa-lookup/",
+    "notices": [
+      "Read 2026-09-11: SR Biolabs posted a facility relocation notice asking that samples not be shipped to the current address until the new laboratory is ready. Confirm the destination before you ship."
+    ],
+    "caveats": [
+      "The laboratory is relocating and is asking that nothing be shipped to the current address. See the notice above.",
+      "The site sits behind a bot-protection challenge, so some pages may not load on a first visit.",
+      "No named accreditation body."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/sr-biolabs"
+  },
+  {
+    "slug": "mz-biolabs",
+    "name": "MZ Biolabs",
+    "website": "https://www.mzbiolabs.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "Tucson, Arizona",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Custom method work"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "quote",
+    "pricingSummary": "No published price list. Testing is arranged directly with the laboratory.",
+    "services": [
+      {
+        "name": "Certificate of analysis testing",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Specialty mass spectrometry",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Custom method development",
+        "price": null,
+        "priceNote": "Quoted per project",
+        "turnaround": null
+      },
+      {
+        "name": "Discovery and collaborative research",
+        "price": null,
+        "priceNote": "Scoped per collaboration",
+        "turnaround": null
+      }
+    ],
+    "turnaround": null,
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "Purity testing here does not cover activity, sterility, endotoxin, heavy metals or pH. The laboratory says so explicitly; pair it with a microbiology laboratory if you need those.",
+      "No published peptide price list.",
+      "This directory previously listed MZ Biolabs as a German laboratory operating under European standards. That was wrong: it is in Tucson, Arizona. Corrected 2026-09-10."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/mz-biolabs"
+  },
+  {
+    "slug": "veritas-analytic",
+    "name": "Veritas Analytic",
+    "website": "https://veritasanalytic.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "United States",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Heavy metals"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "quote",
+    "pricingSummary": "Quoted per job through the site's quote request.",
+    "services": [
+      {
+        "name": "HPLC/UPLC testing",
+        "price": null,
+        "priceNote": "Quoted per job",
+        "turnaround": null
+      },
+      {
+        "name": "Ion chromatography",
+        "price": null,
+        "priceNote": "Quoted per job",
+        "turnaround": null
+      },
+      {
+        "name": "FT-IR analysis",
+        "price": null,
+        "priceNote": "Quoted per job",
+        "turnaround": null
+      },
+      {
+        "name": "GC-MS analysis",
+        "price": null,
+        "priceNote": "Quoted per job",
+        "turnaround": null
+      },
+      {
+        "name": "ICP-MS and ICP-OES/AES",
+        "price": null,
+        "priceNote": "Quoted per job",
+        "turnaround": null
+      },
+      {
+        "name": "NMR spectroscopy",
+        "price": null,
+        "priceNote": "Quoted per job",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "4–5 days standard",
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "Pricing is by quote and there is no peptide catalogue: the laboratory's stated focus is personal care, food and beverage, and dietary supplements.",
+      "Certificate verification needs both a report number and an access code, so a certificate cannot be checked by number alone the way a public archive allows. There is no verification page to link to either: the form is a modal on the homepage, and /verify is a 404.",
+      "No laboratory street address and no named accreditation body."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/veritas-analytic"
+  },
+  {
+    "slug": "pharmetric-laboratory",
+    "name": "Pharmetric Laboratory",
+    "website": "https://www.pharmetriclab.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "Largo, Florida",
+    "takesPeptideSamples": false,
+    "capabilities": [
+      "Endotoxin",
+      "Sterility",
+      "Microbiology"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "quote",
+    "pricingSummary": "Quoted per submission through the laboratory's test-submission portal.",
+    "services": [
+      {
+        "name": "Rapid sterility testing (ATP bioluminescence)",
+        "price": null,
+        "priceNote": "Quoted per submission",
+        "turnaround": null
+      },
+      {
+        "name": "Compendial sterility testing, USP <71>",
+        "price": null,
+        "priceNote": "Quoted per submission",
+        "turnaround": null
+      },
+      {
+        "name": "Bacterial endotoxin testing",
+        "price": null,
+        "priceNote": "Quoted per submission",
+        "turnaround": null
+      },
+      {
+        "name": "Method suitability testing",
+        "price": null,
+        "priceNote": "Quoted per submission",
+        "turnaround": null
+      },
+      {
+        "name": "503A / 503B stability studies",
+        "price": null,
+        "priceNote": "Quoted per programme",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "Faster than conventional culture; not published as a fixed window",
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "Does not offer peptide purity or identity analysis. Pair it with a purity laboratory from this directory.",
+      "Testing is submitted through a login rather than bought from a catalogue, so there is no price to read before you register."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/pharmetric-laboratory"
+  },
+  {
+    "slug": "bioregen",
+    "name": "BioRegen",
+    "website": "https://bioregen.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "United States",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "quote",
+    "pricingSummary": "No published price list. Testing starts with a new customer form.",
+    "services": [
+      {
+        "name": "Research chemical testing",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Supplement testing",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Nootropic testing",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Environmental testing",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      },
+      {
+        "name": "Toxicology testing",
+        "price": null,
+        "priceNote": "Quoted on request",
+        "turnaround": null
+      }
+    ],
+    "turnaround": null,
+    "discounts": [],
+    "verifyUrl": null,
+    "notices": [],
+    "caveats": [
+      "The site now refuses every automated request with an HTTP 403, including its own favicon, so nothing here could be re-verified on 2026-09-11 and the entry below is unchanged from the 2026-09-10 reading. Open it in a browser before relying on it.",
+      "No published price list; testing starts with a new customer form.",
+      "The bioregen.com/verify link this directory carried could not be confirmed and has been removed rather than shipped as a Verify a COA button that may not resolve.",
+      "This directory previously listed BioRegen as UK-based at bioregen.co.uk. The laboratory is US-based at bioregen.com. Corrected 2026-09-10."
+    ],
+    "verifiedOn": "2026-09-10",
+    "directoryPage": "https://voltapeptides.com/testing-labs/bioregen"
+  },
+  {
+    "slug": "forever-young-pharmacy",
+    "name": "Forever Young Pharmacy",
+    "website": "https://foreveryoungpharmacy.com/product-category/peptide-purity-testing/",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "Carlsbad, California",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "Priced per panel in the catalogue, when a panel is actually in stock.",
+    "services": [
+      {
+        "name": "Peptide-specific purity testing",
+        "price": null,
+        "priceNote": "Listed per test in the catalogue; none currently in stock",
+        "turnaround": null
+      },
+      {
+        "name": "Category lab panels",
+        "price": null,
+        "priceNote": "Listed per panel in the catalogue; none currently in stock",
+        "turnaround": null
+      }
+    ],
+    "turnaround": null,
+    "discounts": [],
+    "verifyUrl": "https://foreveryoungpharmacy.com/verify-a-coa/",
+    "notices": [
+      "Read 2026-09-11: the peptide purity testing category returns \"No products were found matching your selection\", and the peptide-specific testing category lists only sub-category headings with no purchasable tests behind them. No peptide purity test could be bought or priced on the site on the date below."
+    ],
+    "caveats": [
+      "Nothing is currently purchasable in the peptide testing catalogue. See the notice above.",
+      "A pharmacy offering testing as a product line rather than a dedicated independent analytical laboratory. A pharmacy that also dispenses is not in the same position as a laboratory that only measures.",
+      "This directory previously pointed at fypharmacy.com and credited 24 peptide-specific tests. The catalogue is at foreveryoungpharmacy.com; the 24 figure was the count on a neighbouring category, not on the purity-testing one."
+    ],
+    "verifiedOn": "2026-09-11",
+    "directoryPage": "https://voltapeptides.com/testing-labs/forever-young-pharmacy"
+  },
+  {
+    "slug": "prodigy-labs",
+    "name": "Prodigy Labs",
+    "website": "https://prodigy-labs.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "San Diego, California",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Blends",
+      "Blind identification",
+      "Endotoxin",
+      "Sterility",
+      "Microbiology",
+      "Heavy metals",
+      "Reconstitution solution"
+    ],
+    "iso17025Accredited": true,
+    "pricingModel": "published",
+    "pricingSummary": "US$225 to US$995 depending on tier, with every add-on and à la carte test priced on the public pricing page.",
+    "services": [
+      {
+        "name": "HPLC Package: identity, purity and content",
+        "price": "US$225 per sample",
+        "priceNote": null,
+        "turnaround": "5–7 business days"
+      },
+      {
+        "name": "Tier 2: safety panel",
+        "price": "US$595 per sample",
+        "priceNote": null,
+        "turnaround": "7–10 business days"
+      },
+      {
+        "name": "Tier 3: safety panel with sterility and mass confirmation",
+        "price": "US$995 per sample",
+        "priceNote": null,
+        "turnaround": "About 15 business days"
+      },
+      {
+        "name": "LC-MS identity confirmation (add-on)",
+        "price": "US$250 per declared active, plus US$150 for each additional active in a blend",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Blind identity (HPLC)",
+        "price": "US$250 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Unknown peptide screen",
+        "price": "US$395 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Reconstitution solution panel",
+        "price": "US$275 on its own, US$195 with a peptide order",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Endotoxin, USP <85> (LAL)",
+        "price": "US$175",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Bioburden, USP <61>",
+        "price": "US$150",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Sterility, true USP <71>",
+        "price": "US$300",
+        "priceNote": null,
+        "turnaround": "About 15 days"
+      },
+      {
+        "name": "Conformity vials and reconstitution stability",
+        "price": "US$75 per conformity vial; stability US$195 for three time points or US$95 per extra point",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Rush",
+        "price": null,
+        "priceNote": "A 25% surcharge on the order",
+        "turnaround": "Chemistry results within 3 business days of receipt"
+      }
+    ],
+    "turnaround": "5–7 business days, up to about 15 for a sterility panel",
+    "discounts": [],
+    "verifyUrl": "https://prodigy-labs.com/verify",
+    "notices": [
+      "Read 2026-11-14: Prodigy's ISO/IEC 17025 accreditation (PJLA #96417) currently covers caffeine testing by HPLC only. The laboratory states that its peptide and compendial tests sit in a scope expansion, so a peptide result from Prodigy is not issued under its accreditation."
+    ],
+    "caveats": [
+      "Accreditation is scope-specific, and Prodigy says its current PJLA scope is caffeine by HPLC. The peptide and compendial tests on its pricing page are described by the laboratory as being in a scope expansion, so a peptide result is not yet issued under the accredited scope.",
+      "Testing is one of several businesses here, alongside a laboratory incubator and a software platform. That is not a criticism of the analysis, but it is a different proposition from a laboratory that only measures.",
+      "The published address is San Diego without a specific building."
+    ],
+    "verifiedOn": "2026-11-14",
+    "directoryPage": "https://voltapeptides.com/testing-labs/prodigy-labs"
+  },
+  {
+    "slug": "ethos-analytics",
+    "name": "Ethos Analytics",
+    "website": "https://www.ethosanalytics.io",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "Phoenix, Arizona",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Custom method work"
+    ],
+    "iso17025Accredited": true,
+    "pricingModel": "quote",
+    "pricingSummary": "Quoted per submission. The site is a quote request, not a catalogue.",
+    "services": [
+      {
+        "name": "Peptide purity analysis",
+        "price": null,
+        "priceNote": "Quoted per submission",
+        "turnaround": null
+      },
+      {
+        "name": "Peptide identity verification",
+        "price": null,
+        "priceNote": "Quoted per submission",
+        "turnaround": null
+      },
+      {
+        "name": "Peptide content and quantitation",
+        "price": null,
+        "priceNote": "Quoted per submission",
+        "turnaround": null
+      },
+      {
+        "name": "Impurity profiling",
+        "price": null,
+        "priceNote": "Quoted per submission",
+        "turnaround": null
+      },
+      {
+        "name": "Stability, solubility, pH and moisture testing",
+        "price": null,
+        "priceNote": "Quoted per submission",
+        "turnaround": null
+      },
+      {
+        "name": "Customised testing and specialised matrix extractions",
+        "price": null,
+        "priceNote": "Scoped and quoted per project",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "Not published as a fixed window; expedited service offered",
+    "discounts": [],
+    "verifyUrl": "https://www.ethosanalytics.io/verify-coa",
+    "notices": [],
+    "caveats": [
+      "The accreditation and certificate numbers are published but the accrediting body is not named anywhere on the site. Vanguard names A2LA and Prodigy names PJLA, and naming the body is what lets a reader pull the accredited scope and check the specific method. Ask for it before relying on the badge.",
+      "No published prices and no published turnaround window: both come back with the quote.",
+      "Peptides are one service line among many. This is a compliance laboratory that tests peptides, not a peptide laboratory."
+    ],
+    "verifiedOn": "2026-11-14",
+    "directoryPage": "https://voltapeptides.com/testing-labs/ethos-analytics"
+  },
+  {
+    "slug": "finnrick",
+    "name": "Finnrick",
+    "website": "https://www.finnrick.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "United States",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity",
+      "Net peptide content",
+      "Endotoxin",
+      "Heavy metals",
+      "Sterility"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "published",
+    "pricingSummary": "Community testing is free if the result may be published. Standard testing is US$249 and stays private; custom orders start at US$69 a sample.",
+    "services": [
+      {
+        "name": "Community testing",
+        "price": "Free (US$0)",
+        "priceNote": null,
+        "turnaround": "Target around four weeks"
+      },
+      {
+        "name": "Standard testing",
+        "price": "US$249 per sample",
+        "priceNote": null,
+        "turnaround": "Target around two weeks"
+      },
+      {
+        "name": "Custom testing",
+        "price": "From US$69 per sample",
+        "priceNote": null,
+        "turnaround": "From one week, depending on the laboratory chosen"
+      },
+      {
+        "name": "Endotoxin add-on",
+        "price": "From US$39; custom orders including it from US$158 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Heavy metals panel add-on",
+        "price": "From US$119; custom orders including it from US$188 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Residual solvents add-on",
+        "price": "From US$139; custom orders including it from US$208 per sample",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Sterility testing",
+        "price": null,
+        "priceNote": "Priced in a custom order",
+        "turnaround": null
+      },
+      {
+        "name": "Membership",
+        "price": "US$9.99 a month; Finnrick Gold US$39.99 a month",
+        "priceNote": null,
+        "turnaround": null
+      },
+      {
+        "name": "Professional testing for commercial distributors",
+        "price": null,
+        "priceNote": "Quoted per arrangement",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "From about one week (custom) to about four weeks (free community testing)",
+    "discounts": [],
+    "verifyUrl": "https://www.finnrick.com/verify",
+    "notices": [],
+    "caveats": [
+      "Testing is available to US residents only, and shipments from outside the US are refused. This entry is here for the published ratings, which anyone can read, not because a Canadian reader can send a vial.",
+      "Finnrick is a programme and a publisher, not a laboratory. The partner laboratories are named, and Finnrick describes two of them (Harrens Lab and PharmLabs) as ISO/IEC 17025 accredited; that is Finnrick's description, so check the accrediting body and scope with the laboratory itself before relying on it.",
+      "The verification page requires a free account, and original laboratory PDFs for published tests are a paid membership feature.",
+      "The ratings are Finnrick's own analysis and, in its own words, are not an endorsement. A ratings position is a claim by a third party, not a measurement of the vial you hold.",
+      "Finnrick's help pages state that sales are final, with no refunds after payment."
+    ],
+    "verifiedOn": "2026-11-14",
+    "directoryPage": "https://voltapeptides.com/testing-labs/finnrick"
+  },
+  {
+    "slug": "peptide-test",
+    "name": "Peptide Test",
+    "website": "https://peptidetest.com",
+    "country": "United States",
+    "countryCodes": [
+      "US"
+    ],
+    "location": "United States, analysis in Michigan",
+    "takesPeptideSamples": true,
+    "capabilities": [
+      "Purity & identity"
+    ],
+    "iso17025Accredited": false,
+    "pricingModel": "portal",
+    "pricingSummary": "Priced in the order flow. No public price list was readable on the site.",
+    "services": [
+      {
+        "name": "Peptide testing",
+        "price": null,
+        "priceNote": "Priced in the order flow",
+        "turnaround": null
+      },
+      {
+        "name": "Group test",
+        "price": null,
+        "priceNote": "Contributions split between participants in the order flow",
+        "turnaround": null
+      },
+      {
+        "name": "Laboratory supplies",
+        "price": null,
+        "priceNote": "Listed per item; free shipping over US$75",
+        "turnaround": null
+      }
+    ],
+    "turnaround": "Not published",
+    "discounts": [],
+    "verifyUrl": "https://verify.peptidetest.net",
+    "notices": [],
+    "caveats": [
+      "A submission service in front of a partner laboratory, not a laboratory itself. The analysing laboratory is not named, so its accreditation cannot be checked.",
+      "No published price list and no published turnaround: both appear in the order flow.",
+      "The site also sells laboratory supplies, so it is a shop as well as a testing route."
+    ],
+    "verifiedOn": "2026-09-14",
+    "directoryPage": "https://voltapeptides.com/testing-labs/peptide-test"
+  }
+]
